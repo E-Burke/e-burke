@@ -2,21 +2,21 @@
 
 ## Current Projects:
 - CADerpillar - Complete: [ ] - Planned
-- TUI-Notes - Complete: [ ] - Active Development
-- Vimsidion - Complete: [ ] - Planned
+- Open VisualKB - Complete: [ ] - In development
 ## What I know:
-- C++ for Backend
-- C++ for CLI
-- Rust
-- C# for Gamedev
-- C++ for Gamedev
-- Bash
+- C++ - Advanced
+- Rust - Capable
+- C# - Capable
+- Java - Capable
+- HTML/CSS/Javascript for Web Development - Capable
+- PHP for Web Development - Proficient
 ### What I want to know:
-- Learning Java
-- Learning how to use OpenGL
+- HOI4 Modding
+- Game Development
 ## Ask me about:
 - T.U.I. and C.L.I. Applications
 - General Linux
+- Open Source projects in need of support
 ## How to reach me:
-Email: elliottburke9@gmail.com
-Alt Email: arne6764@duck.com
+Email: elliottburke@protonmail.com
+Alt Email: elliottburke9@gmail.com
